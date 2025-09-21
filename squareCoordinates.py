@@ -118,3 +118,6 @@ def main():
     left_triangle = np.round(squareCoordinates(LEFT_X_BOUNDS, Y_BOUNDS), decimals=2)
     right_triangle = np.round(squareCoordinates(RIGHT_X_BOUNDS, Y_BOUNDS), decimals=2)
     plot_points(left_triangle, right_triangle)
+
+if __name__ == "__main__":
+    main()
