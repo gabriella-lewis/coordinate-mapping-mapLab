@@ -15,6 +15,12 @@ The points are constrained to lie on either the **left** or **right** side of th
 - Separate generation for left-side and right-side triangles.
 - Plot points and bounding boxes using Matplotlib.
 
+## Example Output
+
+![Square Coordinates Example](screenshots/square_example.png)
+
+Three coordinates on each side of the square, fitting spacial bounds between the each point and from the environment walls, as well as matching angle parameters.
+
 ---
 
 ## Requirements
